@@ -1,6 +1,9 @@
 # sample cv
 ## Technologies used
-- HTML
+- HTML    
+
+
+
 [live@](https://bibincvsample.netlify.app/)
 
 ![img](./cvimage.png)
